@@ -26,8 +26,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=progooglenederland&show_icons=true&locale=en&layout=compact" alt="progooglenederland" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=progooglenederland&show_icons=true&locale=en" alt="progooglenederland" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=progooglenederland&" alt="progooglenederland" /></p>
 
 
