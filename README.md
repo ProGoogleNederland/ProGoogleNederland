@@ -15,12 +15,6 @@
 
 - ⚡ Fun fact **It opens and closes, starts and before it ends.. Enjoy it! Your chances in life**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/webdesigner_gezocht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webdesigner_gezocht" height="30" width="40" /></a>
-<a href="https://discord.gg/WebDeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WebDeveloper" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progooglenederland&show_icons=true&locale=en&layout=compact" alt="progooglenederland" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
